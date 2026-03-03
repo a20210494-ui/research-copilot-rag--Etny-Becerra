@@ -1,0 +1,122 @@
+2026-02-28 11:35:38.614 | INFO     | __main__:run_ingestion:37 - Iniciando procesamiento de 20 artículos...
+2026-02-28 11:35:38.615 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bayer2004.pdf
+2026-02-28 11:35:39.022 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bayer2004.pdf (160697 caracteres)
+2026-02-28 11:35:39.053 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_001 procesado y guardado en: paper_001_processed.txt
+2026-02-28 11:35:39.054 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: becker1968.pdf
+2026-02-28 11:35:39.364 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: becker1968.pdf (126000 caracteres)
+2026-02-28 11:35:39.384 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_002 procesado y guardado en: paper_002_processed.txt
+2026-02-28 11:35:39.384 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bove_gavrilova2017.pdf
+2026-02-28 11:35:40.043 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bove_gavrilova2017.pdf (57630 caracteres)
+2026-02-28 11:35:40.075 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_003 procesado y guardado en: paper_003_processed.txt
+2026-02-28 11:35:40.076 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: chalfin_mccrary2017.pdf
+2026-02-28 11:35:40.402 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: chalfin_mccrary2017.pdf (188312 caracteres)
+2026-02-28 11:35:40.466 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_004 procesado y guardado en: paper_004_processed.txt
+2026-02-28 11:35:40.467 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: uribe_lessing_schouela_stecher2025.pdf
+2026-02-28 11:35:40.784 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: uribe_lessing_schouela_stecher2025.pdf (96048 caracteres)
+2026-02-28 11:35:40.825 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_005 procesado y guardado en: paper_005_processed.txt
+2026-02-28 11:35:40.826 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: di_tella_schargrodsky2004.pdf
+2026-02-28 11:35:41.059 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: di_tella_schargrodsky2004.pdf (80306 caracteres)
+2026-02-28 11:35:41.072 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_006 procesado y guardado en: paper_006_processed.txt
+2026-02-28 11:35:41.073 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bandiera2002_land_mafia.pdf
+2026-02-28 11:35:41.154 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bandiera2002_land_mafia.pdf (80645 caracteres)
+2026-02-28 11:35:41.181 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_007 procesado y guardado en: paper_007_processed.txt
+2026-02-28 11:35:41.181 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: sviatschi2021_making_narco.pdf
+2026-02-28 11:35:42.881 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: sviatschi2021_making_narco.pdf (230807 caracteres)
+2026-02-28 11:35:42.930 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_008 procesado y guardado en: paper_008_processed.txt
+2026-02-28 11:35:42.931 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: masera2022_economics_policing_crime.pdf
+2026-02-28 11:35:43.062 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: masera2022_economics_policing_crime.pdf (51278 caracteres)
+2026-02-28 11:35:43.074 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_009 procesado y guardado en: paper_009_processed.txt
+2026-02-28 11:35:43.075 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: mastrobuoni2010_migration_crime.pdf
+2026-02-28 11:35:43.208 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: mastrobuoni2010_migration_crime.pdf (68379 caracteres)
+2026-02-28 11:35:43.223 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_010 procesado y guardado en: paper_010_processed.txt
+2026-02-28 11:35:43.224 | WARNING  | __main__:run_ingestion:48 - Saltando artículo paper_011 (sin archivo PDF asociado).
+2026-02-28 11:35:43.224 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: fenizia2023_organized_crime_growth.pdf
+2026-02-28 11:35:44.774 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: fenizia2023_organized_crime_growth.pdf (147484 caracteres)
+2026-02-28 11:35:44.825 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_012 procesado y guardado en: paper_012_processed.txt
+2026-02-28 11:35:44.826 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: balletta_lavezzi_extortion_sicilian_mafia.pdf
+2026-02-28 11:35:45.242 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: balletta_lavezzi_extortion_sicilian_mafia.pdf (135252 caracteres)
+2026-02-28 11:35:45.292 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_013 procesado y guardado en: paper_013_processed.txt
+2026-02-28 11:35:45.293 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: gambetta2011_sicilian_mafia.pdf
+2026-02-28 11:35:45.362 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: gambetta2011_sicilian_mafia.pdf (28197 caracteres)
+2026-02-28 11:35:45.371 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_014 procesado y guardado en: paper_014_processed.txt
+2026-02-28 11:35:45.372 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: sviatschi2021_spreading_gangs.pdf
+2026-02-28 11:35:47.182 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: sviatschi2021_spreading_gangs.pdf (174639 caracteres)
+2026-02-28 11:35:47.219 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_015 procesado y guardado en: paper_015_processed.txt
+2026-02-28 11:35:47.219 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: pinotti2012_economic_costs_crime.pdf
+2026-02-28 11:35:47.538 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: pinotti2012_economic_costs_crime.pdf (84861 caracteres)
+2026-02-28 11:35:47.559 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_016 procesado y guardado en: paper_016_processed.txt
+2026-02-28 11:35:47.560 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: acemoglu2020_weak_states_sicilian_mafia.pdf
+2026-02-28 11:35:47.907 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: acemoglu2020_weak_states_sicilian_mafia.pdf (172038 caracteres)
+2026-02-28 11:35:47.948 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_017 procesado y guardado en: paper_017_processed.txt
+2026-02-28 11:35:47.948 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: blattman2017_place_based_interventions.pdf
+2026-02-28 11:35:48.690 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: blattman2017_place_based_interventions.pdf (197121 caracteres)
+2026-02-28 11:35:48.799 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_018 procesado y guardado en: paper_018_processed.txt
+2026-02-28 11:35:48.799 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: kirchmaier2018_prices_policing_crime.pdf
+2026-02-28 11:35:49.065 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: kirchmaier2018_prices_policing_crime.pdf (96838 caracteres)
+2026-02-28 11:35:49.135 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_019 procesado y guardado en: paper_019_processed.txt
+2026-02-28 11:35:49.136 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: levitt2002_electoral_cycles_police.pdf
+2026-02-28 11:35:49.216 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: levitt2002_electoral_cycles_police.pdf (27342 caracteres)
+2026-02-28 11:35:49.226 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_020 procesado y guardado en: paper_020_processed.txt
+2026-02-28 11:35:49.227 | INFO     | __main__:run_ingestion:70 - Procesamiento completado. Artículos procesados: 19/20
+2026-02-28 11:36:42.340 | INFO     | __main__:run_ingestion:37 - Iniciando procesamiento de 20 artículos...
+2026-02-28 11:36:42.341 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bayer2004.pdf
+2026-02-28 11:36:42.605 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bayer2004.pdf (160697 caracteres)
+2026-02-28 11:36:42.652 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_001 procesado y guardado en: paper_001_processed.txt
+2026-02-28 11:36:42.653 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: becker1968.pdf
+2026-02-28 11:36:43.032 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: becker1968.pdf (126000 caracteres)
+2026-02-28 11:36:43.066 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_002 procesado y guardado en: paper_002_processed.txt
+2026-02-28 11:36:43.067 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bove_gavrilova2017.pdf
+2026-02-28 11:36:43.538 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bove_gavrilova2017.pdf (57630 caracteres)
+2026-02-28 11:36:43.557 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_003 procesado y guardado en: paper_003_processed.txt
+2026-02-28 11:36:43.558 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: chalfin_mccrary2017.pdf
+2026-02-28 11:36:43.825 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: chalfin_mccrary2017.pdf (188312 caracteres)
+2026-02-28 11:36:43.878 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_004 procesado y guardado en: paper_004_processed.txt
+2026-02-28 11:36:43.879 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: uribe_lessing_schouela_stecher2025.pdf
+2026-02-28 11:36:44.174 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: uribe_lessing_schouela_stecher2025.pdf (96048 caracteres)
+2026-02-28 11:36:44.200 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_005 procesado y guardado en: paper_005_processed.txt
+2026-02-28 11:36:44.200 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: di_tella_schargrodsky2004.pdf
+2026-02-28 11:36:44.336 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: di_tella_schargrodsky2004.pdf (80306 caracteres)
+2026-02-28 11:36:44.361 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_006 procesado y guardado en: paper_006_processed.txt
+2026-02-28 11:36:44.361 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: bandiera2002_land_mafia.pdf
+2026-02-28 11:36:44.553 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: bandiera2002_land_mafia.pdf (80645 caracteres)
+2026-02-28 11:36:44.585 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_007 procesado y guardado en: paper_007_processed.txt
+2026-02-28 11:36:44.586 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: sviatschi2021_making_narco.pdf
+2026-02-28 11:36:46.273 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: sviatschi2021_making_narco.pdf (230807 caracteres)
+2026-02-28 11:36:46.334 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_008 procesado y guardado en: paper_008_processed.txt
+2026-02-28 11:36:46.334 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: masera2022_economics_policing_crime.pdf
+2026-02-28 11:36:46.427 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: masera2022_economics_policing_crime.pdf (51278 caracteres)
+2026-02-28 11:36:46.439 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_009 procesado y guardado en: paper_009_processed.txt
+2026-02-28 11:36:46.439 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: mastrobuoni2010_migration_crime.pdf
+2026-02-28 11:36:46.580 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: mastrobuoni2010_migration_crime.pdf (68379 caracteres)
+2026-02-28 11:36:46.603 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_010 procesado y guardado en: paper_010_processed.txt
+2026-02-28 11:36:46.604 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: organised_crime.pdf
+2026-02-28 11:36:46.983 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: organised_crime.pdf (156730 caracteres)
+2026-02-28 11:36:47.035 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_011 procesado y guardado en: paper_011_processed.txt
+2026-02-28 11:36:47.035 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: fenizia2023_organized_crime_growth.pdf
+2026-02-28 11:36:48.574 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: fenizia2023_organized_crime_growth.pdf (147484 caracteres)
+2026-02-28 11:36:48.602 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_012 procesado y guardado en: paper_012_processed.txt
+2026-02-28 11:36:48.603 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: balletta_lavezzi_extortion_sicilian_mafia.pdf
+2026-02-28 11:36:48.910 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: balletta_lavezzi_extortion_sicilian_mafia.pdf (135252 caracteres)
+2026-02-28 11:36:48.934 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_013 procesado y guardado en: paper_013_processed.txt
+2026-02-28 11:36:48.935 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: gambetta2011_sicilian_mafia.pdf
+2026-02-28 11:36:48.967 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: gambetta2011_sicilian_mafia.pdf (28197 caracteres)
+2026-02-28 11:36:48.973 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_014 procesado y guardado en: paper_014_processed.txt
+2026-02-28 11:36:48.973 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: sviatschi2021_spreading_gangs.pdf
+2026-02-28 11:36:50.382 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: sviatschi2021_spreading_gangs.pdf (174639 caracteres)
+2026-02-28 11:36:50.436 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_015 procesado y guardado en: paper_015_processed.txt
+2026-02-28 11:36:50.437 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: pinotti2012_economic_costs_crime.pdf
+2026-02-28 11:36:50.653 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: pinotti2012_economic_costs_crime.pdf (84861 caracteres)
+2026-02-28 11:36:50.667 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_016 procesado y guardado en: paper_016_processed.txt
+2026-02-28 11:36:50.668 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: acemoglu2020_weak_states_sicilian_mafia.pdf
+2026-02-28 11:36:50.957 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: acemoglu2020_weak_states_sicilian_mafia.pdf (172038 caracteres)
+2026-02-28 11:36:50.987 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_017 procesado y guardado en: paper_017_processed.txt
+2026-02-28 11:36:50.988 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: blattman2017_place_based_interventions.pdf
+2026-02-28 11:36:51.318 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: blattman2017_place_based_interventions.pdf (197121 caracteres)
+2026-02-28 11:36:51.342 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_018 procesado y guardado en: paper_018_processed.txt
+2026-02-28 11:36:51.342 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: kirchmaier2018_prices_policing_crime.pdf
+2026-02-28 11:36:51.537 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: kirchmaier2018_prices_policing_crime.pdf (96838 caracteres)
+2026-02-28 11:36:51.576 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_019 procesado y guardado en: paper_019_processed.txt
+2026-02-28 11:36:51.577 | INFO     | ingestion.pdf_extractor:extract_text:22 - Extrayendo texto de: levitt2002_electoral_cycles_police.pdf
+2026-02-28 11:36:51.634 | SUCCESS  | ingestion.pdf_extractor:extract_text:30 - Extracción exitosa: levitt2002_electoral_cycles_police.pdf (27342 caracteres)
+2026-02-28 11:36:51.639 | SUCCESS  | __main__:run_ingestion:65 - Artículo paper_020 procesado y guardado en: paper_020_processed.txt
+2026-02-28 11:36:51.639 | INFO     | __main__:run_ingestion:70 - Procesamiento completado. Artículos procesados: 20/20

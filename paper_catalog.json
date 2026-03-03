@@ -1,0 +1,373 @@
+{
+  "papers": [
+    {
+      "id": "paper_001",
+      "title": "Building Criminal Capital behind Bars: Peer Effects in Juvenile Corrections",
+      "authors": [
+        "Patrick Bayer",
+        "Randi Pintoff",
+        "David E. Pozen"
+      ],
+      "year": 2004,
+      "journal": "Yale University Working Paper",
+      "doi": "N/A",
+      "filename": "bayer2004.pdf",
+      "topics": [
+        "economics of crime",
+        "peer effects",
+        "criminal capital",
+        "juvenile corrections"
+      ]
+    },
+    {
+      "id": "paper_002",
+      "title": "Crime and Punishment: An Economic Approach",
+      "authors": [
+        "Gary S. Becker"
+      ],
+      "year": 1968,
+      "journal": "Journal of Political Economy",
+      "doi": "10.1086/259394",
+      "filename": "becker1968.pdf",
+      "topics": [
+        "economics of crime",
+        "deterrence theory",
+        "rational choice",
+        "law and economics"
+      ]
+    },
+    {
+      "id": "paper_003",
+      "title": "Police Officer on the Frontline or a Soldier? The Effect of Police Militarization on Crime",
+      "authors": [
+        "Vincenzo Bove",
+        "Evelina Gavrilova"
+      ],
+      "year": 2017,
+      "journal": "American Economic Journal: Economic Policy",
+      "doi": "10.1257/pol.20150478",
+      "filename": "bove_gavrilova2017.pdf",
+      "topics": [
+        "police militarization",
+        "crime",
+        "law enforcement",
+        "public policy"
+      ]
+    },
+    {
+      "id": "paper_004",
+      "title": "Criminal Deterrence: A Review of the Literature",
+      "authors": [
+        "Aaron Chalfin",
+        "Justin McCrary"
+      ],
+      "year": 2017,
+      "journal": "Journal of Economic Literature",
+      "doi": "10.1257/jel.20141147",
+      "filename": "chalfin_mccrary2017.pdf",
+      "topics": [
+        "criminal deterrence",
+        "economics of crime",
+        "law enforcement",
+        "review article"
+      ]
+    },
+    {
+      "id": "paper_005",
+      "title": "Criminal Governance in Latin America: Prevalence and Correlates",
+      "authors": [
+        "Andres Uribe",
+        "Benjamin Lessing",
+        "Noah Schouela",
+        "Elayne Stecher"
+      ],
+      "year": 2025,
+      "journal": "Perspectives on Politics",
+      "doi": "10.1017/S1537592725101849",
+      "filename": "uribe_lessing_schouela_stecher2025.pdf",
+      "topics": [
+        "criminal governance",
+        "Latin America",
+        "organized crime",
+        "political institutions",
+        "state capacity"
+      ]
+    },
+    {
+      "id": "paper_006",
+      "title": "Do Police Reduce Crime? Estimates Using the Allocation of Police Forces after a Terrorist Attack",
+      "authors": [
+        "Rafael Di Tella",
+        "Ernesto Schargrodsky"
+      ],
+      "year": 2004,
+      "journal": "American Economic Review",
+      "doi": "10.1257/000282804322970733",
+      "filename": "di_tella_schargrodsky2004.pdf",
+      "topics": [
+        "police presence",
+        "crime reduction",
+        "deterrence",
+        "quasi-experimental design",
+        "causal inference"
+      ]
+    },
+    {
+      "id": "paper_007",
+      "title": "Land Reform, the Market for Protection and the Origins of the Sicilian Mafia: Theory and Evidence",
+      "authors": [
+        "Bandiera, O."
+      ],
+      "year": 2002,
+      "venue": "London School of Economics and CEPR",
+      "doi": "",
+      "filename": "bandiera2002_land_mafia.pdf",
+      "topics": [
+        "land reform",
+        "mafia",
+        "protection market",
+        "economic history",
+        "Sicily"
+      ],
+      "abstract": ""
+    },
+    {
+      "id": "paper_008",
+      "title": "Making a Narco: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths",
+      "authors": [
+        "Sviatschi, M. M."
+      ],
+      "year": 2021,
+      "venue": "Princeton University",
+      "doi": "",
+      "filename": "sviatschi2021_making_narco.pdf",
+      "topics": [
+        "child labor",
+        "illegal labor markets",
+        "criminal life paths",
+        "coca farming",
+        "Peru",
+        "conditional cash transfers"
+      ]
+    },
+    {
+      "id": "paper_009",
+      "title": "Chapter 2: The economics of policing and crime",
+      "authors": [
+        "Masera, F."
+      ],
+      "year": 2022,
+      "venue": "A Modern Guide to the Economics of Crime, Edward Elgar Publishing",
+      "doi": "https://doi.org/10.4337/9781789909333.00006",
+      "filename": "masera2022_economics_policing_crime.pdf",
+      "topics": [
+        "policing",
+        "crime",
+        "law enforcement economics",
+        "crime prevention",
+        "economic theory"
+      ]
+    },
+    {
+      "id": "paper_010",
+      "title": "Migration Restrictions and Criminal Behavior: Evidence from a Natural Experiment",
+      "authors": [
+        "Mastrobuoni, G.",
+        "Pinotti, P."
+      ],
+      "year": 2010,
+      "venue": "Collegio Carlo Alberto / Bank of Italy",
+      "doi": "",
+      "filename": "mastrobuoni2010_migration_crime.pdf",
+      "topics": [
+        "migration",
+        "criminal behavior",
+        "natural experiment",
+        "labor economics",
+        "immigration policy"
+      ]
+    },
+    {
+      "id": "paper_011",
+      "title": "Organised Crime and Development, Vol 17, Issue 1",
+      "authors": [
+        "Tobón, S.",
+        "Sviatschi, M. M."
+      ],
+      "year": 2025,
+      "filename": "organised_crime.pdf",
+      "topics": [
+        "organised crime",
+        "development",
+        "crime economics",
+        "policy"
+      ]
+    },
+    {
+      "id": "paper_012",
+      "title": "Organized Crime and Economic Growth: Evidence from Municipalities Infiltrated by the Mafia",
+      "authors": [
+        "Fenizia, A.",
+        "Saggio, R."
+      ],
+      "year": 2023,
+      "venue": "NBER Working Paper Series, National Bureau of Economic Research",
+      "doi": "http://www.nber.org/papers/w32002",
+      "filename": "fenizia2023_organized_crime_growth.pdf",
+      "topics": [
+        "organized crime",
+        "economic growth",
+        "municipalities",
+        "mafia infiltration",
+        "Italy"
+      ]
+    },
+    {
+      "id": "paper_013",
+      "title": "The Economics of Extortion: Theory and the Case of the Sicilian Mafia",
+      "authors": [
+        "Balletta, L.",
+        "Lavezzi, A. M."
+      ],
+      "year": 2023,
+      "venue": "University of Naples ‘‘Federico II’’ / University of Palermo",
+      "doi": "",
+      "filename": "balletta_lavezzi_extortion_sicilian_mafia.pdf",
+      "topics": [
+        "extortion",
+        "Sicilian Mafia",
+        "economic theory",
+        "crime economics"
+      ]
+    },
+    {
+      "id": "paper_014",
+      "title": "The Sicilian Mafia: Twenty Years After Publication",
+      "authors": [
+        "Gambetta, D."
+      ],
+      "year": 2011,
+      "venue": "Symposium / “Telling about the Mafia”: Research, Reflexivity, and Representation, edited by Marco Santoro",
+      "doi": "10.2383/35869",
+      "filename": "gambetta2011_sicilian_mafia.pdf",
+      "topics": [
+        "Sicilian Mafia",
+        "organized crime",
+        "social research",
+        "reflexivity",
+        "representation"
+      ]
+    },
+    {
+      "id": "paper_015",
+      "title": "Spreading Gangs: Exporting US Criminal Capital to El Salvador",
+      "authors": [
+        "Sviatschi, M. M."
+      ],
+      "year": 2021,
+      "venue": "Princeton University",
+      "filename": "sviatschi2021_spreading_gangs.pdf",
+      "topics": [
+        "gangs",
+        "criminal capital",
+        "El Salvador",
+        "US influence",
+        "crime economics"
+      ]
+    },
+    {
+      "id": "paper_016",
+      "title": "The Economic Costs of Organized Crime: Evidence from Southern Italy",
+      "authors": [
+        "Pinotti, P."
+      ],
+      "year": 2012,
+      "venue": "Carlo F. Dondena Centre for Research on Social Dynamics, Università Bocconi",
+      "doi": "http://www.dondena.unibocconi.it/wp54",
+      "filename": "pinotti2012_economic_costs_crime.pdf",
+      "topics": [
+        "organized crime",
+        "economic costs",
+        "Southern Italy",
+        "crime impact",
+        "regional development"
+      ]
+    },
+    {
+      "id": "paper_017",
+      "title": "Weak States: Causes and Consequences of the Sicilian Mafia",
+      "authors": [
+        "Acemoglu, D.",
+        "De Feo, G.",
+        "De Luca, G. D."
+      ],
+      "year": 2020,
+      "venue": "MIT / University of Leicester / University of York and LICOS, KU Leuven",
+      "filename": "acemoglu2020_weak_states_sicilian_mafia.pdf",
+      "topics": [
+        "weak states",
+        "Sicilian Mafia",
+        "state capacity",
+        "crime economics",
+        "institutional economics"
+      ]
+    },
+    {
+      "id": "paper_018",
+      "title": "Place-Based Interventions at Scale: The Direct and Spillover Effects of Policing and City Services on Crime",
+      "authors": [
+        "Blattman, C.",
+        "Green, D.",
+        "Ortega, D.",
+        "Tobón, S."
+      ],
+      "year": 2017,
+      "venue": "NBER Working Paper Series, National Bureau of Economic Research",
+      "doi": "http://www.nber.org/papers/w23941",
+      "filename": "blattman2017_place_based_interventions.pdf",
+      "topics": [
+        "place-based interventions",
+        "policing",
+        "city services",
+        "crime",
+        "spillover effects"
+      ]
+    },
+    {
+      "id": "paper_019",
+      "title": "Prices, Policing and Policy: The Dynamics of Crime Booms and Busts",
+      "authors": [
+        "Kirchmaier, T.",
+        "Machin, S.",
+        "Sandi, M.",
+        "Witt, R."
+      ],
+      "year": 2018,
+      "venue": "IZA DP No. 11490, CEP, London School of Economics / Copenhagen Business School / University of Surrey",
+      "filename": "kirchmaier2018_prices_policing_crime.pdf",
+      "topics": [
+        "crime dynamics",
+        "policing",
+        "crime policy",
+        "economic incentives",
+        "crime booms and busts"
+      ]
+    },
+    {
+      "id": "paper_020",
+      "title": "Using Electoral Cycles in Police Hiring to Estimate the Effects of Police on Crime: Reply",
+      "authors": [
+        "Levitt, S. D."
+      ],
+      "year": 2002,
+      "filename": "levitt2002_electoral_cycles_police.pdf",
+      "topics": [
+        "policing",
+        "crime",
+        "electoral cycles",
+        "policy effects",
+        "law enforcement"
+      ]
+    }
+  ]
+}
