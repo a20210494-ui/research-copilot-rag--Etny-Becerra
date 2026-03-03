@@ -1,6 +1,6 @@
-# Research Copilot: Asistente Inteligente para Investigación Académica
-
+# Research Copilot: Economia del crimen 
 ## Sección 1: Descripción del proyecto
+**Resumen del proyecto** Este proyecto se centra en la Economía del Crimen, analizando el delito como una elección racional donde los individuos evalúan beneficios frente a riesgos y costos. El estudio explora cómo factores como la desigualdad social, la probabilidad de captura y la severidad de las penas influyen en las tasas de criminalidad. A través de este análisis, se busca comprender la eficiencia de las políticas públicas de seguridad y el impacto del entorno económico en la conducta desviada. El enfoque permite tratar el fenómeno delictivo no solo como un problema social, sino como un mercado sujeto a incentivos y desincentivos.
 
 **Research Copilot** es una plataforma avanzada de Recuperación Aumentada por Generación (RAG) diseñada para asistir a investigadores en la síntesis y análisis de literatura científica. El sistema permite procesar grandes volúmenes de artículos académicos, extraer su contenido de manera estructurada y proporcionar respuestas fundamentadas con citas automáticas en formato APA.
 
@@ -18,7 +18,25 @@
 ## Sección 3: Arquitectura
 
 ### Estructura del Repositorio
-```text
+La arquitectura del sistema se basa en un flujo RAG (Generación Aumentada por Recuperación)
+Componentes Principales: 
+Interfaz de Usuario (Streamlit): Proporciona un entorno multicanal con chat interactivo, visualización de datos de artículos y un panel de analítica avanzada.
+
+Base de Datos Vectorial (ChromaDB): Almacena las representaciones numéricas (embeddings) de los 20 artículos para permitir búsquedas semánticas rápidas.
+
+M & LangChain)otor de Procesamiento (Python: Gestiona el flujo de información, desde la carga de PDFs hasta la fragmentación (chunking) y el envío de contexto a la IA.
+
+Modelo de Lenguaje (OpenAI GPT-4o): Actúa como el motor de razonamiento que genera respuestas basadas estrictamente en el contexto proporcionado, garantizando citas en formato APA.
+
+Flujo de Trabajo:
+Ingesta: Los 20 artículos en papers/ se procesan y se guardan en el índice vectorial.
+
+Consulta: El usuario ingresa una pregunta en el Chat seleccionando una de las 4 estrategias de prompt.
+
+Recuperación: El sistema busca los fragmentos más relevantes en ChromaDB.
+
+Generación: La IA redacta la respuesta final utilizando el contexto recuperado y la estrategia de prompt elegida.
+
 app/
 ├── main.py              # Main Streamlit app (Bienvenida)
 ├── pages/
@@ -104,16 +122,27 @@ Basado en el reporte generado en `eval/results.md`:
 | **Precisión de Citas APA** | 100% |
 | **Falsos Positivos (Fuera de contexto)** | 0% |
 
+Análisis de Desempeño:
+
+Robustez del Contexto: El sistema demostró ser seguro al rechazar preguntas no relacionadas con la economía del crimen (como "La capital de Francia"), evitando alucinaciones de GPT-4o.
+
+Impacto de las Estrategias: Se observó que la Estrategia V4 (Chain of Thought) incrementó la calidad de las respuestas en preguntas que requerían comparar dos o más autores, mientras que la V1 fue más eficiente para datos fácticos.
+
+Calidad APA: El 100% de las respuestas incluyeron el formato de cita (Autor, Año) solicitado, facilitando la verificación directa en la base de datos de 20 artículos.
+
 *El sistema identificó correctamente la pregunta sobre "La capital de Francia" como irrelevante para los documentos.*
 
-## Sección 8: Limitaciones y Mejoras
 
-1. **Dependencia de API**: El sistema requiere conexión constante a OpenAI; una mejora sería implementar LLMs locales (como Llama 3) para mayor privacidad.
-2. **Contexto Estático**: La base de datos no se actualiza automáticamente si se agregan PDFs a la carpeta; se sugiere un sistema de *watching* de directorios.
-3. **Multilingüismo**: Aunque maneja español e inglés, la precisión de los embeddings podría variar; se mejoraría con modelos multilingües específicos.
+## Sección 8: Limitaciones y Mejoras
+1. Dependencia de Conectividad y API: El sistema depende totalmente de la disponibilidad de los servidores de OpenAI y una conexión a internet estable. Una mejora futura sería implementar modelos locales (como Llama 3 vía Ollama) para garantizar privacidad y funcionamiento offline.
+
+2. Ventana de Contexto Estática: Al procesar los 20 artículos simultáneamente, si las preguntas son extremadamente amplias, el modelo podría priorizar ciertos fragmentos sobre otros debido al límite de tokens del modelo GPT. Se sugiere implementar técnicas de Reranking para mejorar la relevancia de los fragmentos recuperados.
+
+3. Actualización del Índice: Actualmente, añadir un nuevo artículo requiere ejecutar manualmente el script ingest.py. Una mejora futura sería un botón de "Carga de archivos" directamente en la interfaz de Streamlit para automatizar la expansión de la base de datos.
+
 
 ## Sección 9: Información del Autor
 
-**Nombre**: [Tu Nombre]
-**Curso**: Inteligencia Artificial Aplicada - Proyecto Final
-**Fecha**: Febrero 2026
+**Nombre**: Etny Julissa Becerra Lopez
+**Curso**: Capacitación en Prompt Engineering usando GPT4 2026-01
+**Fecha**: 28 de febrero de2026
